@@ -27,6 +27,7 @@ This is a simple Snake game implemented using HTML, CSS, and JavaScript. The cla
 - Simple and intuitive controls.
 - Score tracking to keep track of your high score.
 
+
 ## Technologies Used
 
 - HTML
@@ -41,4 +42,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 - This game was inspired by the classic Snake game.
 
-Have fun playing the Snake game!
+Enjoy playing the Snake game!
